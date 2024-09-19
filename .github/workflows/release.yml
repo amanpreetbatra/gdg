@@ -1,10 +1,8 @@
 name: Release GDG on Tag
 on:
   push:
-#   branches: 
-#     - master
-    tags:
-      - v*
+    branches: 
+      - master
 
 jobs:
   goreleaser:
