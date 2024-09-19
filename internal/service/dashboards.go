@@ -29,7 +29,7 @@ import (
 )
 
 const (
-	minimumNestedDashboardVersion = "v11.0.0"
+	minimumNestedDashboardVersion = "v10.0.0"
 	nestedDashboardRegexFilter    = "^/+"
 )
 
